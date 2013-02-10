@@ -1,0 +1,12 @@
+___awdiv: CODE, 367 0 116
+__stringtab: STRING, 631 0 6
+__stringdata: STRING, 647 0 18
+_putch: CODE, 665 0 14
+_dpowers: STRING, 637 0 10
+_main: CODE, 238 0 129
+__initialization: CODE, 690 0 1
+___lwdiv: CODE, 483 0 79
+_isr: CODE, 679 0 11
+_printf: CODE, 19 0 219
+___lwmod: CODE, 562 0 69
+Total: 672
